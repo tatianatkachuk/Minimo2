@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minimo2_11012021</string>
+    <string name="sendButton">send</string>
+    <string name="followersText">Followers</string>
+    <string name="followingText">Following</string>
+    <string name="repoText">Repositoris</string>
+</resources>
